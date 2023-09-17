@@ -1,0 +1,20 @@
+.footer{
+    background-color: #222;
+    color:#fff;
+    padding:0.5rem;
+    border-radius: 0.5rem;
+    margin-top:1rem;
+}
+
+
+.name a{
+
+    color:#fff;
+    padding:0 0.5rem;
+    text-decoration: none;
+}
+.iconContainer{
+    display: flex;
+    justify-content: center;
+    gap:0.5rem;
+}
